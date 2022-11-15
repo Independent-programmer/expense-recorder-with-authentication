@@ -1,0 +1,29 @@
+/* button  {
+  border-left: 100px;
+  position: "absolute";
+  top: "50%";
+  left: "50%";
+  transform: "translate(-50%, -50%)";
+  width: 400;
+  background-color: "background.paper";
+  border: "2px solid #000";
+  box-shadow: 24;
+
+} */
+
+.videoModal button{
+    /* border-left: 100px; */
+    margin-left: 700px;
+}
+#close{
+    margin-left: 700px;
+    top:0;
+    left:0;
+    background-color: transparent;
+    border:0px;
+    margin-bottom: 80px;
+}
+
+ img{
+    background-color: transparent;
+}
